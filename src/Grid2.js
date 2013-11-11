@@ -1,5 +1,4 @@
 
-
 /* ------ 2D Grids ----- */
 
 (function(modula){
@@ -585,7 +584,7 @@
             for(var i = 0, len = neighbors.length; i < len; i++){
                 var neighbor = neighbors[i];
                 
-                if(this.isSolid(neighbor.x, neighbor.y) || closedset.contains(neighbor)){
+                if(is_solid(neighbor.x, neighbor.y) || closedset.contains(neighbor)){
                     continue;
                 }
 
