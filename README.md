@@ -4,6 +4,10 @@ A collection of javascript libraries for vector
 math, grid, pathfinding and other useful things
 for building small javascript games.
 
+## License
+
+Modula.js is licensed under the MIT license.
+
 ## Install
 
     bower install modula-js
