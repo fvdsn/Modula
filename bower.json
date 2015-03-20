@@ -1,0 +1,16 @@
+{
+    "name": "modula",
+    "version": "1.0.0",
+    "description": "A collection of javascript libraries and utils for vector math and other video-game related stuff.",
+    "license": "MIT",
+    "authors": ["Frederic van der Essen"],
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/fvdsn/Modula.git"
+    },
+    "keywords": ["js","javascript","math","vector","transform",
+                 "quaternion","pathfinding","grid","library",
+                 "games","collision"],
+    "ignore": ["*.md"],
+
+}
