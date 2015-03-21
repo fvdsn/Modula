@@ -1,6 +1,6 @@
 {
     "name": "modula",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "description": "A collection of javascript libraries and utils for vector math and other video-game related stuff.",
     "license": "MIT",
     "authors": ["Frederic van der Essen"],
